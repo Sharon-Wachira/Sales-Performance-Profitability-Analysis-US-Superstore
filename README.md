@@ -1,0 +1,2 @@
+# Sales-Performance-Profitability-Analysis-US-Superstore
+Project analyzes sales performance and profitability to uncover insights that support data-driven decision-making. Analysis helps understand revenue trends, profit drivers, discount impact, and regional performance. Project follows an end-to-end Business Analytics workflow.: Data cleaning, EDA -Python, interactive dashboard development - Power BI
